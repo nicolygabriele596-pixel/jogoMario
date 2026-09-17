@@ -32,8 +32,8 @@ body {
 #pipe {
     background-image: url('../assets/images/pipe.png');
     background-size: cover;
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 90px;
     position: absolute;
     bottom: 100px;
     animation: pipe-animation 3s infinite linear;
@@ -43,7 +43,7 @@ body {
     animation-play-state: paused !important;
 }
 
-#character {
+#mario {
     position: absolute;
     width: 150px;
     height: 150px;
